@@ -1,0 +1,34 @@
+body {
+    background-color: chocolate;
+}
+title {
+    display: block;
+    font-size: xx-large;
+    background-color: aqua;
+}
+.par1{
+    display: block;
+    background-color: bisque;
+}
+h1 {
+    background-color: blueviolet;
+}
+.par2{
+    display: block;
+    background-color: rgb(196, 225, 255);
+}
+#item-1 {
+    background-color: rgba(1, 91, 1, 100%);
+}
+#item-2 {
+    background-color: rgba(1, 91, 1, 80%);
+}
+#item-3 {
+    background-color: rgba(1, 91, 1, 60%);
+}
+#item-4 {
+    background-color: rgba(1, 91, 1, 40%);
+}
+#item-5 {
+    background-color: rgba(1, 91, 1, 20%);
+}
