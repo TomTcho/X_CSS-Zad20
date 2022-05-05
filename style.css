@@ -1,7 +1,7 @@
 body {
     background-color: chocolate;
 }
-title {
+h1 {
     display: block;
     font-size: xx-large;
     background-color: aqua;
@@ -10,7 +10,7 @@ title {
     display: block;
     background-color: bisque;
 }
-h1 {
+h2 {
     background-color: blueviolet;
 }
 .par2{
@@ -18,17 +18,17 @@ h1 {
     background-color: rgb(196, 225, 255);
 }
 #item-1 {
-    background-color: rgba(1, 91, 1, 100%);
+    background-color: rgba(1, 91, 1, 1);
 }
 #item-2 {
-    background-color: rgba(1, 91, 1, 80%);
+    background-color: rgba(1, 91, 1, 0.8);
 }
 #item-3 {
-    background-color: rgba(1, 91, 1, 60%);
+    background-color: rgba(1, 91, 1, 0.6);
 }
 #item-4 {
-    background-color: rgba(1, 91, 1, 40%);
+    background-color: rgba(1, 91, 1, 0.4);
 }
 #item-5 {
-    background-color: rgba(1, 91, 1, 20%);
+    background-color: rgba(1, 91, 1, 0.2);
 }
